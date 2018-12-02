@@ -1,2 +1,6 @@
 # Archieve
 Archieve/
+# pdflatex output
+*.out
+*.log
+*.aux
